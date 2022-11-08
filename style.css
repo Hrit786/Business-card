@@ -1,0 +1,27 @@
+
+body{
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.a{
+    width: 150px;
+  
+}
+.b{
+    width: 400px;
+    /* display: block; */
+    margin:0px auto;
+
+padding: 20px;
+display: flex;
+justify-content:space-around;
+/* border: 1px dotted blue; */
+text-align: center;
+background:#ddbef8;
+border-bottom: 6px solid #731ac2;
+color: #2b2839;
+}
+.c{
+    /* border: 1px dotted blue; */
+}
